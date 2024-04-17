@@ -2,5 +2,6 @@ body {background-color: cadetblue;
 }
 h1 {text-align: center;
 border-width: 5px;
+border-style: solid;
 border-color: darkcyan;
 margin left: 5px;}
